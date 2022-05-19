@@ -1,1 +1,1 @@
-test
+[![hello-world](https://github.com/Vasiliii3/git-act-1/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Vasiliii3/git-act-1/actions/workflows/hello-world.yml)
